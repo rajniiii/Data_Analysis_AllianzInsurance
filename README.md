@@ -78,4 +78,5 @@ Propensity Score Modeling:
 Predict the likelihood of a customer switching to direct debit and target interventions accordingly. 
 Hierarchical Bayesian Models: 
 Incorporate multiple levels of data (customer, broker, product) to account for the nested structure in the dataset. 
- 
+
+Using a time-based definition of churn (continuation date more than one year before the latest policy date), the calculated churn rate is 4.04% across 99 customers. This approach ensures a business-aligned view of customer retention and inactivity.
